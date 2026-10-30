@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/GuiFancy/easegui.pw.toml"
-hash = "b268984e0ffb5f4726eb67d91feb220a351dab120d98c32cea1df7ee604ed0e5"
+hash = "1d7d1e22bd355a8dbdf682c5d1835d205b24eecc1563f29ceda8c90a849400e8"
 metafile = true
 
 [[files]]
