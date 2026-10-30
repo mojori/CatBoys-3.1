@@ -444,3 +444,8 @@ metafile = true
 file = "mods/World/tree-physics.pw.toml"
 hash = "d5fbd9afe1b4a1f98d34d6128ce81592de09e6c8e0841e2a60e8e6fde87e18c4"
 metafile = true
+
+[[files]]
+file = "mods/ffmodsubfolders.pw.toml"
+hash = "633bec04185a401d327334b2222038827948b296a78d1c58b32f8a5be29f235f"
+metafile = true
