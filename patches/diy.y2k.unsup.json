@@ -1,0 +1,15 @@
+{
+	"formatVersion": 1,
+	"+jvmArgs": [
+		"-Dunsup.packwiz.changeFlavors=true"
+	],
+	"name": "unsup",
+	"uid": "diy.y2k.unsup",
+	"version": "1.3.0",
+	"+agents": [
+		{
+			"name": "diy.y2k:unsup:1.3.0",
+			"url": "https://repo.sleeping.town"
+		}
+	]
+}
