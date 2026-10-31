@@ -9,6 +9,30 @@ file = "configureddefaults/options.txt"
 hash = "0d311105915efd177891416ca1ed9975045fb164584151ef7bce87b71b28bf5a"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "52c3f31c2025fa6e11fa8607071d917006de9a4442f6e21f4542d73baa83d705"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/ru_ru.json"
+hash = "bee74e9aee8839767ba7a76aade48f6fbc6cdab2ad529b6ac0a0182d8b5cf110"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/pocket_3d_printer.json"
+hash = "fba19dd1361b36744ef965b29848a72af1e1568e1506c5209fb1912a29d55268"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/polymer.json"
+hash = "59d49a6d653a2ba44d9a7e5013d3df8fac3c1c239e11523851e32767ab391dbe"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pocket_3d_printer.png"
+hash = "5dacd7f78a64e8d34c7ff05931c1967cda4fdf60257f3ca012a9dac35f81fa6a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/polymer.png"
+hash = "d9ebd6d41cb7296d5ce5ca6c0152eb407202b5feb8fdcf9ee321add4ea0fcbd0"
+
+[[files]]
 file = "mods/Building/another-furniture.pw.toml"
 hash = "ef3367cda8d69ad8e3732bfd4bb6ba437017fda1e2697ce9717bee2055b41234"
 metafile = true
