@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/Building/effortless.pw.toml"
-hash = "0345586c4c71c3edd20a0e099c2a818a679289e8eaee91b7c6bb6fadb0bc71d0"
+hash = "ca4daf9e2180aeb190d6a007ed10b7732fd9e209b79214ac8142862a5a727897"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/cirrus.pw.toml"
-hash = "ba2ca978d1219997d995624fe8f95194ad69005846d185d423e1a1139300eede"
+hash = "b13dfc96316bb906393ffbacbc229683ee1c696be1926083ced33a19fe829f67"
 metafile = true
 
 [[files]]
@@ -187,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/lambdynamiclights.pw.toml"
-hash = "a18e3ccdf71e346bcd5f772c235ad9244aec9dfc128402486e91bffc807832a9"
+hash = "7211de0ddeab153fc2bf9588f5922de705006be507002ec03cb9f8e6b67ab4cf"
 metafile = true
 
 [[files]]
 file = "mods/Fancy/shine-vfx.pw.toml"
-hash = "53b1e29d76c9bbc9fa60d4d18a64c40f1aab7e6275eff62ba7c4586df89e4766"
+hash = "30fb74457e752e0fe39058214126aa6bf4a91790fa79441f4a53206c46e1bdd3"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/Game/cubes-without-borders.pw.toml"
-hash = "06c5a874ac690e50f58a517836e71b80909fcd7d244abd498ca1c403f15f2282"
+hash = "d462884e125af2957dea0c0b6dd92a363c50942dc8bde89393f187de3dd554a7"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/Gui/controlling.pw.toml"
-hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
 
 [[files]]
@@ -266,11 +266,6 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
-file = "mods/Gui/ok-zoomer.pw.toml"
-hash = "e08301069fb769d4cdf8aff75d7533126c80bfdfa682f09ba9ae98040ee725eb"
-metafile = true
-
-[[files]]
 file = "mods/Gui/sophisticated-inventory-interactions.pw.toml"
 hash = "4656eed3663eb71d5e6970392d77511642bd239dbe7cced276c9f8687120c931"
 metafile = true
@@ -281,18 +276,23 @@ hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
 metafile = true
 
 [[files]]
-file = "mods/Gui/xaeros-world-map.pw.toml"
-hash = "62eaf7c193d20dbec89944f6e1401ce64a80d8d704830a988d24c1498d8316e2"
-metafile = true
-
-[[files]]
-file = "mods/GuiFancy/easegui.pw.toml"
+file = "mods/GuiClient/easegui.pw.toml"
 hash = "1d7d1e22bd355a8dbdf682c5d1835d205b24eecc1563f29ceda8c90a849400e8"
 metafile = true
 
 [[files]]
-file = "mods/GuiFancy/emi.pw.toml"
+file = "mods/GuiClient/emi.pw.toml"
 hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+metafile = true
+
+[[files]]
+file = "mods/GuiClient/ok-zoomer.pw.toml"
+hash = "55ef06345f5e222d564229ff9a2ee536d048d9ac2833de71d887d44b4dafd818"
+metafile = true
+
+[[files]]
+file = "mods/GuiClient/xaeros-world-map.pw.toml"
+hash = "ea108934fe2cc5e7d58763ca5949459052ce368a153822eec42d53273f93a58e"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/Libraries/better-advanced-tooltips.pw.toml"
-hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
+hash = "d9f912d43efb74c5ed07a3a9ef1cb078cec2bcdf369e05637d698e84f1fb67d6"
 metafile = true
 
 [[files]]
@@ -352,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/Libraries/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
 file = "mods/Libraries/unfocused.pw.toml"
-hash = "f369fc29f759f989b05d68ba57480c1c3d6fdf3727276c98bde4a9c942fbf943"
+hash = "86da11ef9e3d45df9e72abb51d17e11ebd0a8e8c763a84f90987e5fa49fa0475"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/Optimization/entityculling.pw.toml"
-hash = "02d6c9aceef547b018bf3786367ca40f5aec682b8f577e15fb0656811b424d66"
+hash = "2c30e4316a5ae988b31f83db6f83d3b4b824758ca9e6a2dd8e1f131de418bfed"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/Optimization/immediatelyfast.pw.toml"
-hash = "b308dfacb39de2e41e90ea4e5489d0075b60ed0e3f2a7d4e5d57ea8343db9a57"
+hash = "87d5822fd5757378e66eb480206d9a5b20d6b26be6700afa8c2b08c5898ab80b"
 metafile = true
 
 [[files]]
@@ -397,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/Optimization/sodium-extra.pw.toml"
-hash = "bfff2b5c76c93c09a4f24ec353dff03a9f26d491f522c77431d53f71a1b75670"
+hash = "b9d2d9c361ac465b572b7f010fc4ef1f91ef168fbc8d2591317e951aa569ee29"
 metafile = true
 
 [[files]]
 file = "mods/Optimization/sodium.pw.toml"
-hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
+hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
 metafile = true
 
 [[files]]
