@@ -33,6 +33,10 @@ file = "kubejs/assets/kubejs/textures/item/polymer.png"
 hash = "d9ebd6d41cb7296d5ce5ca6c0152eb407202b5feb8fdcf9ee321add4ea0fcbd0"
 
 [[files]]
+file = "kubejs/startup_scripts/polymer_and_printer.js"
+hash = "61a414d2e9ed0af65e9aeab287ab41eac9cd8b12f1b1ec15cfab73ab09de3799"
+
+[[files]]
 file = "mods/Building/another-furniture.pw.toml"
 hash = "ef3367cda8d69ad8e3732bfd4bb6ba437017fda1e2697ce9717bee2055b41234"
 metafile = true
@@ -394,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/Libraries/unfocused.pw.toml"
-hash = "86da11ef9e3d45df9e72abb51d17e11ebd0a8e8c763a84f90987e5fa49fa0475"
+hash = "f369fc29f759f989b05d68ba57480c1c3d6fdf3727276c98bde4a9c942fbf943"
 metafile = true
 
 [[files]]

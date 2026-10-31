@@ -1,6 +1,6 @@
 name = "Unfocused"
 filename = "unfocused-neoforge-0.3.10-1.21.1-sgd.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
