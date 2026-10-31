@@ -1,0 +1,14 @@
+name = "Rescriptor"
+filename = "Rescriptor-1.0.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/eIn99pKE/versions/OYv1o8pc/Rescriptor-1.0.zip"
+hash-format = "sha512"
+hash = "d08b33eb54aac87e1be72b67df904158b8a3f1fae53d254b1b8e34a6f88f8cf9189c6833527e8558318b673671cfcdfc702c5c27c936eb130366e2fd262e9567"
+
+[update]
+[update.modrinth]
+mod-id = "eIn99pKE"
+version = "OYv1o8pc"

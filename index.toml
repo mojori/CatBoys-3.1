@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/com.yuushya/client_config.json"
+hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "09aaa01b1e43d9fda89f1124797a5b12116ed011601ef188c9aafed9f07fd3c5"
+
+[[files]]
 file = "mods/Building/another-furniture.pw.toml"
 hash = "ef3367cda8d69ad8e3732bfd4bb6ba437017fda1e2697ce9717bee2055b41234"
 metafile = true
@@ -22,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/Building/unusual-furniture.pw.toml"
-hash = "8c5d81a96c724f45195fbdb3aa1734dc2244362b98c1600a47f312fe732622fa"
+hash = "847cf6e8c9414493bcc38f116d53b673721851849f4e98439904d56d9fe4aa21"
 metafile = true
 
 [[files]]
@@ -251,6 +259,11 @@ hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
+file = "mods/Gui/emi.pw.toml"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+metafile = true
+
+[[files]]
 file = "mods/Gui/jade.pw.toml"
 hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
@@ -277,12 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/GuiClient/easegui.pw.toml"
-hash = "1d7d1e22bd355a8dbdf682c5d1835d205b24eecc1563f29ceda8c90a849400e8"
-metafile = true
-
-[[files]]
-file = "mods/GuiClient/emi.pw.toml"
-hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+hash = "5eb1d1bf29079792d313e1ad5831b8904533447423b96789f86985a9b6abbda2"
 metafile = true
 
 [[files]]
@@ -327,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/Libraries/mezzconfig.pw.toml"
-hash = "81a9a360cfea30ef1243b21c3623f7ee26ba9547f3c987da8612eec0daf40b17"
+hash = "8d7d77cb3b4b9d8d30f963c2c125a030e3bdcdcb3b85f63ea61f587d185578fa"
 metafile = true
 
 [[files]]
@@ -367,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/Magic/scriptor-magicae.pw.toml"
-hash = "1bf49dde596fb80f964f1982cbd98127c9ab0da2d5afffb58760f2fa96e9a619"
+hash = "0f94b0bba36fac7cead9adeed766d34ceeafc16a6401d664fb3fb827084bd0e1"
 metafile = true
 
 [[files]]
@@ -432,12 +440,12 @@ metafile = true
 
 [[files]]
 file = "mods/Tools/sophisticated-backpacks.pw.toml"
-hash = "00d4ba21c41008c1c5a989c661aefa63ff5f3278225d411a7fd79ac3f53e2484"
+hash = "919c4a6d785d88b1741fcc29f12ef4ab62a3cbe62ba81decad64709314ab91ee"
 metafile = true
 
 [[files]]
 file = "mods/Tools/sophisticated-core.pw.toml"
-hash = "14a839d70664656e42c7b9a92790946fe0f012e61799123c2366684b83ced05b"
+hash = "6a9c688e013029ca428e4f4ed5f8dd292e80856dfed4225837df6a0110b7dc4f"
 metafile = true
 
 [[files]]
@@ -446,6 +454,36 @@ hash = "d5fbd9afe1b4a1f98d34d6128ce81592de09e6c8e0841e2a60e8e6fde87e18c4"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "11975785d3b13927c69fd7fbd8d950608a3fbeb9eb976575e4973da6630ead65"
+metafile = true
+
+[[files]]
 file = "mods/ffmodsubfolders.pw.toml"
 hash = "633bec04185a401d327334b2222038827948b296a78d1c58b32f8a5be29f235f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode-expansion.pw.toml"
+hash = "495d560956ec8605f6290841d491f02f82cf7e240cb194274261a3bbbb0122d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "13557b2c8eea4a2333d94412b257104b04f0c9b69f750c4df035b4d07036b698"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-item-renders.pw.toml"
+hash = "5c561c7bd22b0213de5fd8a09615bc48df44177b47d978e68a3370f8f4d56790"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rescriptor.pw.toml"
+hash = "5467a888bdeb06990f377fa7cc7d55be1bab0db5abd4b15980d1492d5de74cf5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unnamed-create-computers-resource-pack.pw.toml"
+hash = "2cfa905346470d28e2b164d5e3ba59382c0b3d476c468e113e823e764b21d6dd"
 metafile = true

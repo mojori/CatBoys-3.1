@@ -1,0 +1,14 @@
+name = "Fancy Item Renders"
+filename = "Fancy Item Renders v1.1.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/ZF9CtC7t/versions/kNlQtUqB/Fancy%20Item%20Renders%20v1.1.zip"
+hash-format = "sha512"
+hash = "3da2a0e2dfe2720f39a408487fd677de2d04b8490b257ed731854f88aa2cfd329f870b87ae9df83f6055df866a452a1b55a020cfc2422e188fc051257fb21b4c"
+
+[update]
+[update.modrinth]
+mod-id = "ZF9CtC7t"
+version = "kNlQtUqB"

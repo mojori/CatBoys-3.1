@@ -1,13 +1,13 @@
 name = "Unusual Furniture"
-filename = "unusual_furniture-2.0.1-1.21.1-neoforge.jar"
+filename = "unusual_furniture-2.0.2-1.21.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5afc6a8d5a63c1df2b1104e6170d7b4affec3da"
+hash = "0243a43a62f390438a6a5298e35caa67fffea42b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9358297
+file-id = 9372047
 project-id = 1278034
