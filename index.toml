@@ -6,7 +6,7 @@ hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "ec8c36f5e05c1d997602fbe773ad2983913105aae9704676a91dc122bed74510"
+hash = "e53ce27e6724ddcc90ab30ebe5caf3b20919405e9aa690dbbcf7e09a7ceab000"
 
 [[files]]
 file = "mods/Building/another-furniture.pw.toml"
