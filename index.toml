@@ -497,6 +497,11 @@ hash = "633bec04185a401d327334b2222038827948b296a78d1c58b32f8a5be29f235f"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "5b455b1ef10642289e24670df5c3ee5deabf320e07c67d24e84b30c65c86df52"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode-expansion.pw.toml"
 hash = "495d560956ec8605f6290841d491f02f82cf7e240cb194274261a3bbbb0122d0"
 metafile = true
