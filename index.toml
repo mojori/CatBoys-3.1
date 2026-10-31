@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/com.yuushya/client_config.json"
+file = "com.yuushya/client_config.json"
 hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e53ce27e6724ddcc90ab30ebe5caf3b20919405e9aa690dbbcf7e09a7ceab000"
+hash = "de97e87336b17f0940cf59b87cb89c4ec14863e74066b93692a796590c07b37f"
 
 [[files]]
 file = "mods/Building/another-furniture.pw.toml"
