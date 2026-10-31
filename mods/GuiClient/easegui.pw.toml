@@ -15,4 +15,4 @@ project-id = 1584306
 [option]
 optional = true
 default = true
-description = "pop test test popa gui"
+description = "Gui animations"

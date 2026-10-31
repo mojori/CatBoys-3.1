@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8996611
 project-id = 1572354
+
+[option]
+optional = true
+default = true
+description = "Fancy sky"

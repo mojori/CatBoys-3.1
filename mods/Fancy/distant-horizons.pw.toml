@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9004764
 project-id = 508933
+
+[option]
+optional = true
+default = true
+description = "Increase chunk render distances"

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "configureddefaults/com.yuushya/client_config.json"
-hash = "e3fd93d11e4c8fde8434e9bf47dc982a0f9f05915dedaeb09f7e1e96532d250a"
+hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e1a818246c941e234e8d07b791b30739813ede2d1db5a2b4bea153e69c1e210a"
+hash = "ec8c36f5e05c1d997602fbe773ad2983913105aae9704676a91dc122bed74510"
 
 [[files]]
 file = "mods/Building/another-furniture.pw.toml"
@@ -185,22 +185,27 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/cirrus.pw.toml"
-hash = "b13dfc96316bb906393ffbacbc229683ee1c696be1926083ced33a19fe829f67"
+hash = "dca09683e6c031bb60a34f7d6f06d3788ead1b1a11e9de45f6c8a55dde35da3b"
 metafile = true
 
 [[files]]
 file = "mods/Fancy/distant-horizons.pw.toml"
-hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
+hash = "20df1845a6c1b124c7a5518e90c3db686de374eb6fb9aa02a2fcec317ac41950"
+metafile = true
+
+[[files]]
+file = "mods/Fancy/iris.pw.toml"
+hash = "80692bf83800c020bccf65ce73a9a0b44759119c99a22380ed9e3b8b0f7e9ef5"
 metafile = true
 
 [[files]]
 file = "mods/Fancy/lambdynamiclights.pw.toml"
-hash = "7211de0ddeab153fc2bf9588f5922de705006be507002ec03cb9f8e6b67ab4cf"
+hash = "a3ac64d1b82d1ae8d07cd562dfd7422befc93f86411b8f960aa75b1ab41db5c5"
 metafile = true
 
 [[files]]
 file = "mods/Fancy/shine-vfx.pw.toml"
-hash = "30fb74457e752e0fe39058214126aa6bf4a91790fa79441f4a53206c46e1bdd3"
+hash = "5af41647ce0b6eb1b994ec0af00dddf9cc08aa59c941f4a9a93f05d1879dc492"
 metafile = true
 
 [[files]]
@@ -290,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/GuiClient/easegui.pw.toml"
-hash = "5eb1d1bf29079792d313e1ad5831b8904533447423b96789f86985a9b6abbda2"
+hash = "a9e6143c223fa6e4b1b321c8d4d42e594cb81285cfe789c461fd9b2aebe1a19b"
 metafile = true
 
 [[files]]
@@ -410,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/Optimization/sodium.pw.toml"
-hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
