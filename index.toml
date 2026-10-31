@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/distant-horizons.pw.toml"
-hash = "20df1845a6c1b124c7a5518e90c3db686de374eb6fb9aa02a2fcec317ac41950"
+hash = "a146246c65424b2a39aaffc6fbba44cb36fae0d36afe371bc00a2371cfc98306"
 metafile = true
 
 [[files]]
@@ -457,6 +457,11 @@ hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
+file = "mods/ServerMods/skinrestorer.pw.toml"
+hash = "840bb114b8c686327e6d53856e189906e396f4b74d3fe02d2103c9190dd76a37"
+metafile = true
+
+[[files]]
 file = "mods/ServerMods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
@@ -494,11 +499,6 @@ metafile = true
 [[files]]
 file = "mods/ffmodsubfolders.pw.toml"
 hash = "633bec04185a401d327334b2222038827948b296a78d1c58b32f8a5be29f235f"
-metafile = true
-
-[[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "5b455b1ef10642289e24670df5c3ee5deabf320e07c67d24e84b30c65c86df52"
 metafile = true
 
 [[files]]
