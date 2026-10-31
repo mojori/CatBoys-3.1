@@ -217,8 +217,8 @@ hash = "dca09683e6c031bb60a34f7d6f06d3788ead1b1a11e9de45f6c8a55dde35da3b"
 metafile = true
 
 [[files]]
-file = "mods/Fancy/distant-horizons.pw.toml"
-hash = "a146246c65424b2a39aaffc6fbba44cb36fae0d36afe371bc00a2371cfc98306"
+file = "mods/Fancy/distanthorizons.pw.toml"
+hash = "6529bfe8f75f5df7255c277a65792d6aacdd0bdd22f16d4a2de1fd118d5d328f"
 metafile = true
 
 [[files]]
