@@ -14,5 +14,5 @@ version = "9w34y8ai"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Increase chunk render distances"
