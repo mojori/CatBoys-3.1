@@ -279,11 +279,6 @@ hash = "aa39c956bc3e2ab77d27d56d8ed163d50aa3d937263454084f0e256d26e06037"
 metafile = true
 
 [[files]]
-file = "mods/Game/authlogic.pw.toml"
-hash = "78b29f20cc8d32bf6a2413a2c68e0e593d37e2155c008c860500ba8cf1e0d16d"
-metafile = true
-
-[[files]]
 file = "mods/Game/configured-defaults.pw.toml"
 hash = "11975785d3b13927c69fd7fbd8d950608a3fbeb9eb976575e4973da6630ead65"
 metafile = true
