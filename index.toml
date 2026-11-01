@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/distanthorizons.pw.toml"
-hash = "f4d67eb1d71149beb781227c84aa7ce173254e1add0b98ac03d063fdd9440d29"
+hash = "2430f0485bdd1a553cc2cc8c0fe3439d709146db4c54c74aeda18bb14418cdb0"
 metafile = true
 
 [[files]]
@@ -371,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/GuiClient/ok-zoomer.pw.toml"
 hash = "55ef06345f5e222d564229ff9a2ee536d048d9ac2833de71d887d44b4dafd818"
+metafile = true
+
+[[files]]
+file = "mods/GuiClient/xaeros-minimap.pw.toml"
+hash = "a83464fb724a818a123bd50cb63d5119813f10d7e234942cef9406df4873a031"
 metafile = true
 
 [[files]]
@@ -561,11 +566,6 @@ metafile = true
 [[files]]
 file = "mods/ffmodsubfolders.pw.toml"
 hash = "633bec04185a401d327334b2222038827948b296a78d1c58b32f8a5be29f235f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
 
 [[files]]
