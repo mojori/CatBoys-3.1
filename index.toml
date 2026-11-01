@@ -214,6 +214,11 @@ hash = "792656064c1a91d6d5ec6add1e707c3c99b20668be099e836d6adff4703f43ae"
 metafile = true
 
 [[files]]
+file = "mods/CreateAeronautics/gravestone-and-sable-compatibility-patch.pw.toml"
+hash = "6baec0ac505606e2066b5a00a5873cc6895f0ca639a0bfabd74bf408dcf25749"
+metafile = true
+
+[[files]]
 file = "mods/CreateAeronautics/sable-pathfinder.pw.toml"
 hash = "bb53384b726692f7c4227355fa0653cbb6aba5bd0bd3ea7c586d395aa4d2d135"
 metafile = true
@@ -526,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/Tools/sophisticated-core.pw.toml"
 hash = "6a9c688e013029ca428e4f4ed5f8dd292e80856dfed4225837df6a0110b7dc4f"
+metafile = true
+
+[[files]]
+file = "mods/World/gravestone-mod.pw.toml"
+hash = "d18f1ea4c6c1c2f99f18a8725d11e14c93abd29988df24c967794fc52e9c969c"
 metafile = true
 
 [[files]]
