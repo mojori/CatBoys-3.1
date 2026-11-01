@@ -1,0 +1,13 @@
+name = "Suspention Wrench"
+filename = "suspension_wrench-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ury9FNlf/versions/NTAuMvlw/suspension_wrench-1.0.1.jar"
+hash-format = "sha512"
+hash = "0a5a316c1e43dc1a9015b05c0fc18a875b5fcf53ef65b13a3f2163b856790ef3d8e01662046ecdca8aee5971945da0c4030300c852fc031fd46475457540df01"
+
+[update]
+[update.modrinth]
+mod-id = "Ury9FNlf"
+version = "NTAuMvlw"
