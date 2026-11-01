@@ -249,6 +249,11 @@ hash = "a3ac64d1b82d1ae8d07cd562dfd7422befc93f86411b8f960aa75b1ab41db5c5"
 metafile = true
 
 [[files]]
+file = "mods/Fancy/particle-rain.pw.toml"
+hash = "57728761db43b4cb786db828146a3737524618d3e00a3d655dc80e62f37dc074"
+metafile = true
+
+[[files]]
 file = "mods/Fancy/shine-vfx.pw.toml"
 hash = "5af41647ce0b6eb1b994ec0af00dddf9cc08aa59c941f4a9a93f05d1879dc492"
 metafile = true
@@ -276,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/Food/slice-and-dice.pw.toml"
 hash = "aa39c956bc3e2ab77d27d56d8ed163d50aa3d937263454084f0e256d26e06037"
+metafile = true
+
+[[files]]
+file = "mods/Game/authlogic.pw.toml"
+hash = "78b29f20cc8d32bf6a2413a2c68e0e593d37e2155c008c860500ba8cf1e0d16d"
 metafile = true
 
 [[files]]
@@ -519,6 +529,16 @@ hash = "6a9c688e013029ca428e4f4ed5f8dd292e80856dfed4225837df6a0110b7dc4f"
 metafile = true
 
 [[files]]
+file = "mods/World/lootr.pw.toml"
+hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
+metafile = true
+
+[[files]]
+file = "mods/World/lootrmon.pw.toml"
+hash = "4fc73c53deeb29e98ee31b7cb534f80ed3635afc54f7c37460cfba92718ce74a"
+metafile = true
+
+[[files]]
 file = "mods/World/terralith.pw.toml"
 hash = "77a945b5ff32f1a821cd2942bcd2fb411740061f022efad3e48eaa8577b48636"
 metafile = true
@@ -526,11 +546,6 @@ metafile = true
 [[files]]
 file = "mods/World/tree-physics.pw.toml"
 hash = "d5fbd9afe1b4a1f98d34d6128ce81592de09e6c8e0841e2a60e8e6fde87e18c4"
-metafile = true
-
-[[files]]
-file = "mods/authlogic.pw.toml"
-hash = "78b29f20cc8d32bf6a2413a2c68e0e593d37e2155c008c860500ba8cf1e0d16d"
 metafile = true
 
 [[files]]
