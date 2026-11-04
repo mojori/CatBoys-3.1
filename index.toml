@@ -79,6 +79,11 @@ hash = "e458fce2ec0a1e0a8641b1d9fc4ee104b3c2f1a58c39fa8945a836eceae48936"
 metafile = true
 
 [[files]]
+file = "mods/Cobblemon/cobblemon-capture-xp.pw.toml"
+hash = "ea90ecdd3906af5a4707df5ae1ad368ffb8fb627d59bad86f5ca58f7eaa696ea"
+metafile = true
+
+[[files]]
 file = "mods/Cobblemon/cobblemon-mega-showdown.pw.toml"
 hash = "ef20c9f51f12e516c650f29a2caf3259bffdc5e0d2c82138b96106723e772776"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/Cobblemon/cobblemon-pokenav.pw.toml"
 hash = "5e3cc9da18b73a8977c112ffaaaffa4806736be4e94bf3e4f06127d2ae46cafe"
+metafile = true
+
+[[files]]
+file = "mods/Cobblemon/cobblemon-tim-core.pw.toml"
+hash = "c8d1fb71c718dba67cce929a119bb330813d2da24631b3e3f6abdc6ce9cc93bc"
 metafile = true
 
 [[files]]
@@ -456,11 +466,6 @@ metafile = true
 [[files]]
 file = "mods/Libraries/yacl.pw.toml"
 hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
-metafile = true
-
-[[files]]
-file = "mods/Magic/scriptor-magicae.pw.toml"
-hash = "0f94b0bba36fac7cead9adeed766d34ceeafc16a6401d664fb3fb827084bd0e1"
 metafile = true
 
 [[files]]
