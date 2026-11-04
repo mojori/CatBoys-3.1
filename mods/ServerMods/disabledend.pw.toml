@@ -1,0 +1,13 @@
+name = "DisabledEnd"
+filename = "disabledeng-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vX8sxEyX/versions/NCDaY1Xm/disabledeng-1.0.0.jar"
+hash-format = "sha512"
+hash = "f7d6650f1575b80efa995bfdc18b20e5975675aa45b7b791d7a82f3af3649d9c58d9531dc496afcb66582cdfbcd76dbfebf5249ce28201a13ed93830e822fd75"
+
+[update]
+[update.modrinth]
+mod-id = "vX8sxEyX"
+version = "NCDaY1Xm"

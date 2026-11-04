@@ -499,6 +499,11 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
+file = "mods/ServerMods/disabledend.pw.toml"
+hash = "4cb7b1de0711027b5b27427484eb378a514fc89c81441eaf00f19b6825390c81"
+metafile = true
+
+[[files]]
 file = "mods/ServerMods/item-obliterator.pw.toml"
 hash = "aeb82b93a8948a84d4aff642bda7e969ad7d0d3182bff327973035ef11ad5a94"
 metafile = true
@@ -506,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/ServerMods/kubejs.pw.toml"
 hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
-metafile = true
-
-[[files]]
-file = "mods/ServerMods/no-dim.pw.toml"
-hash = "d8a12e7c66e4763c8a95b3eb5103cb5b0b9a195b5046c2443b3d8bd6a26186d6"
 metafile = true
 
 [[files]]
