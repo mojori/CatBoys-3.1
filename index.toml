@@ -499,6 +499,16 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
+file = "mods/ServerMods/ftb-essentials.pw.toml"
+hash = "2815f7ddc408a54a3275b6b4c622ea213f6e7c1f719a00dd479d1bc31ebde1e6"
+metafile = true
+
+[[files]]
+file = "mods/ServerMods/ftb-library-forge.pw.toml"
+hash = "9e0ff88096065c84a1d2652fa8c9a7e13c57554e126ed59ebc6c5942b0cdefa5"
+metafile = true
+
+[[files]]
 file = "mods/ServerMods/item-obliterator.pw.toml"
 hash = "aeb82b93a8948a84d4aff642bda7e969ad7d0d3182bff327973035ef11ad5a94"
 metafile = true
