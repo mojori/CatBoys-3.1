@@ -6,7 +6,7 @@ hash = "410d9719094ec2f90db1e8180183f6665cfb366d93ca814ce98d8ed924ea26fb"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "2cecfa24c13d4bbbec398eb41caf4d23783817d9609b9d7deaa8d221da3970a4"
+hash = "59c4598c2532db2b41dd64020661e6ffd3153783a30a97811b2766ead280e6a3"
 
 [[files]]
 file = "configureddefaults/config/com.yuushya/client_config.json"
@@ -499,16 +499,6 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
-file = "mods/ServerMods/ftb-essentials.pw.toml"
-hash = "2815f7ddc408a54a3275b6b4c622ea213f6e7c1f719a00dd479d1bc31ebde1e6"
-metafile = true
-
-[[files]]
-file = "mods/ServerMods/ftb-library-forge.pw.toml"
-hash = "9e0ff88096065c84a1d2652fa8c9a7e13c57554e126ed59ebc6c5942b0cdefa5"
-metafile = true
-
-[[files]]
 file = "mods/ServerMods/item-obliterator.pw.toml"
 hash = "aeb82b93a8948a84d4aff642bda7e969ad7d0d3182bff327973035ef11ad5a94"
 metafile = true
@@ -516,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/ServerMods/kubejs.pw.toml"
 hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+metafile = true
+
+[[files]]
+file = "mods/ServerMods/no-dim.pw.toml"
+hash = "d8a12e7c66e4763c8a95b3eb5103cb5b0b9a195b5046c2443b3d8bd6a26186d6"
 metafile = true
 
 [[files]]

@@ -4,7 +4,7 @@
 	enabledItems = [
     "sophisticatedbackpacks:backpack|true",
     "sophisticatedbackpacks:copper_backpack|true",
-    "sophisticatedbackpacks:iron_backpack|false",
+    "sophisticatedbackpacks:iron_backpack|true",
     "sophisticatedbackpacks:gold_backpack|false",
     "sophisticatedbackpacks:diamond_backpack|false",
     "sophisticatedbackpacks:netherite_backpack|false",
