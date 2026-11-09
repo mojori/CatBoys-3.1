@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9407184
 project-id = 1731365
+
+[option]
+optional = true
+default = true
+description = "Create optimization"
