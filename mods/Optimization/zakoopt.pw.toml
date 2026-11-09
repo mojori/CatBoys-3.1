@@ -1,0 +1,13 @@
+name = "ZakoOpt"
+filename = "zakoopt-2.0.4-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3df2b18149e45bf710d7c25258fd11ca2b43e27b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9407184
+project-id = 1731365

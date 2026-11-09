@@ -504,6 +504,11 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
+file = "mods/Optimization/zakoopt.pw.toml"
+hash = "f842dddf2093306aa890b37a1d5f18057e828ac570d9789eae9b3baac87fa174"
+metafile = true
+
+[[files]]
 file = "mods/ServerMods/disabledend.pw.toml"
 hash = "4cb7b1de0711027b5b27427484eb378a514fc89c81441eaf00f19b6825390c81"
 metafile = true
