@@ -63,6 +63,11 @@ hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
 metafile = true
 
 [[files]]
+file = "mods/Building/effortless-building.pw.toml"
+hash = "acca756841ee5e088eaec9474758e402247965f3adf6d7ccd612bb715aa836c9"
+metafile = true
+
+[[files]]
 file = "mods/Building/straw-statues.pw.toml"
 hash = "7b0fae7a23721ebea12ea8bae66caaf083c43100ac79aa56269132d6b36fc819"
 metafile = true
@@ -138,18 +143,8 @@ hash = "7d86d9256b8fb680f7a8f36e529050921830d411a09c7f93d3f0777783b60810"
 metafile = true
 
 [[files]]
-file = "mods/Create/adventurers-harness.pw.toml"
-hash = "2d331da56c7f2922d359f47f231a05a6e070e9a6dd78113a6c4f80d3a281dbec"
-metafile = true
-
-[[files]]
 file = "mods/Create/copycats.pw.toml"
 hash = "af68f400faa4564bfaa16509dedcb2dbafb8c3a0154d6e4e0b1443bcb4c6d536"
-metafile = true
-
-[[files]]
-file = "mods/Create/create-adventurers-harness.pw.toml"
-hash = "5b512a2e8138e7c0d034135798ae8d055410a755ed0b917716ce1b196d6ab7fb"
 metafile = true
 
 [[files]]
