@@ -21,6 +21,10 @@ file = "configureddefaults/options.txt"
 hash = "0d311105915efd177891416ca1ed9975045fb164584151ef7bce87b71b28bf5a"
 
 [[files]]
+file = "configureddefaults/zakoopt.json"
+hash = "e9e78ee2cf321d144aad245814bdf2c606afb15d6fd16b6861619b27d9f0fe05"
+
+[[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
 hash = "52c3f31c2025fa6e11fa8607071d917006de9a4442f6e21f4542d73baa83d705"
 
