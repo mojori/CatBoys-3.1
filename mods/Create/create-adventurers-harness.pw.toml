@@ -1,0 +1,13 @@
+name = "Create: Adventurer's Harness"
+filename = "create_adventurers_harness-1.1-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dfd2d7dba7a9b19365cec8de8c5c02a531d4b74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9511980
+project-id = 1780307

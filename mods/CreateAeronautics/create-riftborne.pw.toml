@@ -1,0 +1,13 @@
+name = "Create Riftborne"
+filename = "create-riftborne-1.21.1-1.0.0-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2c16e9abcecccc11ba7fb4ab9ebde179276d03d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9514925
+project-id = 1694600
