@@ -59,11 +59,6 @@ hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
 metafile = true
 
 [[files]]
-file = "mods/Building/effortless.pw.toml"
-hash = "0345586c4c71c3edd20a0e099c2a818a679289e8eaee91b7c6bb6fadb0bc71d0"
-metafile = true
-
-[[files]]
 file = "mods/Building/straw-statues.pw.toml"
 hash = "7b0fae7a23721ebea12ea8bae66caaf083c43100ac79aa56269132d6b36fc819"
 metafile = true
