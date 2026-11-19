@@ -1,0 +1,13 @@
+name = "Thaumaturge Caster's Gauntlet"
+filename = "casters_gauntlet-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "677de47c4111505dd2150feb02afd15a004e455a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9617906
+project-id = 1775220

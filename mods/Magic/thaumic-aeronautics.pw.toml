@@ -1,0 +1,13 @@
+name = "Thaumic Aeronautics"
+filename = "thaumic_aeronautics-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4e53813110519e82d9eac9f92f37fe842e28e6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9655614
+project-id = 1733694

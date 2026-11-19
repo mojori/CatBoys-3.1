@@ -1,13 +1,13 @@
 name = "Create: Coasters Simulated"
-filename = "simulatedcoasters-0.1.5.jar"
+filename = "simulatedcoasters-0.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d3381b781a1129f793358b8ae13e0abcd2e655b"
+hash = "6e92311ebe385c8be822e8a9946fb70b9bffef1a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8655742
+file-id = 9654233
 project-id = 1601871

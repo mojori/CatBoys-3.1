@@ -1,0 +1,13 @@
+name = "Create: Octo Arms"
+filename = "octo-arms-2.0.0-beta.128-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fe474c905159b8df17452101823ca200375e1ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9612403
+project-id = 1741356
