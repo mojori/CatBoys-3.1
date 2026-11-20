@@ -14,5 +14,5 @@ project-id = 1494094
 
 [option]
 optional = true
-default = true
+default = false
 description = "Visual effects"

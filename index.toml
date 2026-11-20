@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/shine-vfx.pw.toml"
-hash = "5af41647ce0b6eb1b994ec0af00dddf9cc08aa59c941f4a9a93f05d1879dc492"
+hash = "41eb4e1a69c3438b7ae5136793b7d13916035300b66a6a3808a306f01c624e64"
 metafile = true
 
 [[files]]
