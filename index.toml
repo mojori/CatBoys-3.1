@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/Cobblemon/cobblemon-mega-showdown.pw.toml"
-hash = "ef20c9f51f12e516c650f29a2caf3259bffdc5e0d2c82138b96106723e772776"
+hash = "72e96dedb2b1abe3a0ce6f97c93570a927f0821ff1e33150af32408e96ff8b3b"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/CreateAeronautics/create-aeronautics.pw.toml"
-hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+hash = "388f202e0ab2a2cc56eed792500ec92a3cdc651947203510455e8fc5cdd41569"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/CreateAeronautics/create-riftborne.pw.toml"
-hash = "8f444c60e2c9850391e10e9d7a7e82177e2330fc3c9766307ae15cf5f9826051"
+hash = "8c808a20f1d39492134d9cca448dcb12b022ba8bb638a4522c93349c45841b6b"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/Fancy/particle-rain.pw.toml"
-hash = "f72444bb42ef592e5af1c16b8b8f3f214e9087089adea06e1150d1549c2e4e7c"
+hash = "b5105ebf2957d5b851433e66414a577c3da6ab07937096997ac44ed30933ab73"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/Gui/jei.pw.toml"
-hash = "ee801eabf7641d4d89a17c68008566d5f41f3743a3c154110a3d3ceef23bdec9"
+hash = "6ac63899a08a599c851dd186679ba01f61d486e141a0cd488e76502dd90bb15d"
 metafile = true
 
 [[files]]
@@ -552,11 +552,6 @@ metafile = true
 [[files]]
 file = "mods/ServerMods/kubejs.pw.toml"
 hash = "be9f3f981dd69822b4a3e5ab6fd677ec69a4e01dcf66c62e239b6ef65f31f0fd"
-metafile = true
-
-[[files]]
-file = "mods/ServerMods/servercore.pw.toml"
-hash = "f1f64eac894b3203e0c100af66992847deb556d2807643878c5864411398338c"
 metafile = true
 
 [[files]]
