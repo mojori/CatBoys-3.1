@@ -145,6 +145,11 @@ hash = "c4c513aea9433b96ff7e1b33db29914020c43786e5d3fd7b79829b2c098bf7e9"
 metafile = true
 
 [[files]]
+file = "mods/Create/create-collision-fix.pw.toml"
+hash = "90c26a289c9cafe34882afffa6df55ffa28f59571cc838b312de4a47e9aad021"
+metafile = true
+
+[[files]]
 file = "mods/Create/create-diesel-generators.pw.toml"
 hash = "c12d2dc7c116f12a8f321b1c5fcd3a0231eb06dcebfe4e08231b91c915abc337"
 metafile = true

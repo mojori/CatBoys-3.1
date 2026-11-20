@@ -1,0 +1,13 @@
+name = "create-collision-fix"
+filename = "create-collision-fix-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e96df283231368b7d7e5ab17d742bfba1647042e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8584761
+project-id = 1641004
