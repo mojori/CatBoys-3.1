@@ -9,20 +9,12 @@ file = "config/sophisticatedcore-common.toml"
 hash = "59c4598c2532db2b41dd64020661e6ffd3153783a30a97811b2766ead280e6a3"
 
 [[files]]
-file = "configureddefaults/config/com.yuushya/client_config.json"
-hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
-
-[[files]]
-file = "configureddefaults/config/com.yuushya/shine.json"
-hash = "b0e7ebf0a8b15548225b3d2518be75d7761d62afbc0ccbfcb8a9878813644a9e"
+file = "configureddefaults/config/tentaworks-client.toml"
+hash = "6f38fe7d88c9ae1a9e031332f11d4ca38012a3033534ada4e804e5d43641828d"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "0d311105915efd177891416ca1ed9975045fb164584151ef7bce87b71b28bf5a"
-
-[[files]]
-file = "configureddefaults/zakoopt.json"
-hash = "e9e78ee2cf321d144aad245814bdf2c606afb15d6fd16b6861619b27d9f0fe05"
+hash = "719ba3ec975f38ae824a6e7de98a0f3b96556b7d1445b9d7e29c50d40d95b860"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"

@@ -169,3 +169,4 @@ key_key.climbable_ropes.lock_rope_camera:key.keyboard.left.alt
 key_key.shine.toggle:key.keyboard.unknown
 key_key.shine.editor:key.keyboard.k
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.thaumaturge.thaumonomicon:key.keyboard.j
